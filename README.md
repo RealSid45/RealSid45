@@ -2,7 +2,7 @@
 ### Flutter Developer • Frontend Engineer • UI/UX Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E7FF&size=26&center=true&vCenter=true&width=700&lines=Crafting+Futuristic+Mobile+Experiences+⚡;Flutter+Developer+From+Kerala+🇮🇳;Neon+UI+Enthusiast+✨;Always+Learning.+Always+Building.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E7FF&size=26&center=true&vCenter=true&width=700&lines=Crafting+Futuristic+Mobile+Experiences+⚡;Flutter+Developer+;Neon+UI+Enthusiast+✨;Always+Learning.+Always+Building.">
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ---
 
 # 🚀 About Me
-- 🧑‍💻 Junior Flutter Developer from Kerala  
+- 🧑‍💻 Junior Flutter Developer  
 - ⚡ Passionate about futuristic UI/UX  
 - 🤝 Open to collaborating on Flutter apps & AI tools  
 - 🎯 Current Focus: Building beautiful, scalable mobile apps  
